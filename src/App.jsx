@@ -8,7 +8,7 @@ import BrandsSection from './components/BrandsSection';
 import AboutSection from './components/AboutSection';
 import Footer from './components/Footer';
 import SignIn from './Pages/SignIn/SignIn';
-import Error from './Pages/error';
+import Error from './Pages/error/error';
 import SignUp from './Pages/SignUp/SignUp';
 
 function App() {
